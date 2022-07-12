@@ -1,0 +1,24 @@
+{
+  "name": "compiler",
+  "version": "1.0.0",
+  "description": "Online code compiler ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Code-compiler-node"
+  },
+  "keywords": [
+    "Code",
+    "compiler"
+  ],
+  "author": "Rohit Sharan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "compilex": "^0.7.4",
+    "express": "^4.17.2"
+  }
+}
